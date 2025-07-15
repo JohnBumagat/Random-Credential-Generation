@@ -1,0 +1,1 @@
+The original code was test using VS Code, the second code was test using pydroid3 on mobile. there is a minor difference because code in pydroid3 was change a little bit to fit for the output screen of the app.
